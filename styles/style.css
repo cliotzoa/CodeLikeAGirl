@@ -1,1 +1,14 @@
 body {background-color:#9d8189 ;}
+#carouselDeaf {text-allign: center;}
+#carouselDeaf {width:600px;}
+#carouselDeaf {margin: 0 auto}
+#carouselBlind {text-allign: center;}
+#carouselBlind {width:600px;}
+#carouselBlind {margin: 0 auto}
+h2 {text-allign: center;}
+p {
+    margin-top:10pt;
+    margin-left:10pt;
+    margin-right:10pt;
+
+}
