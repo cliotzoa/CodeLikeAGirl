@@ -1,25 +1,27 @@
 body {
     background-color:#9d8189 ;
-    text-allign: center;
+    text-align: center;
 }
-#carouselDeaf {text-allign: center;}
-#carouselDeaf {width:600px;}
+#carouselDeaf {text-align: center;}
+#carouselDeaf {max-width:600px;}
 #carouselDeaf {margin: 0 auto}
-#carouselBlind {text-allign: center;}
-#carouselBlind {width:600px;}
+#carouselBlind {text-align: center;}
+#carouselBlind {max-width:600px;}
 #carouselBlind {margin: 0 auto}
-h2 {text-allign: center;}
+h2 {text-align: center;}
 p {
-    margin-top:10pt;
-    margin-left:10pt;
-    margin-right:10pt;
+    margin-top:20px;
+    margin-left:20px;
+    margin-right:20px;
 
 }
 table, th, td {
     border: 1px solid black;
     border-collapse: collapse;
-    margin-top:10pt;
-    margin-left:10pt;
-    margin-right:10pt;
-    margin-bottom:10pt;
+    margin-top:20px;
+    margin-left:20px;
+    margin-right:20px;
+    margin-bottom:20px;
   }
+  .icon {max-width: 40px;}
+  
