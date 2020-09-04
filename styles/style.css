@@ -1,28 +1,25 @@
 body {
-    background-color:#dbe7e4;
+    background-color:white;
     text-align: center;
 }
 #carouselDeaf {text-align: center;}
-#carouselDeaf {max-width:600px;}
 #carouselDeaf {margin: 0 auto}
 #carouselBlind {text-align: center;}
-#carouselBlind {max-width:600px;}
 #carouselBlind {margin: 0 auto}
 h2 {text-align: center;}
 p {
     margin-top:20px;
     margin-left:20px;
     margin-right:20px;
-
 }
 table, th, td {
     border: 1px solid black;
     border-collapse: collapse;
-    margin-top:20px;
-    margin-left:20px;
-    margin-right:20px;
-    margin-bottom:20px;
   }
+  .table-container {
+      padding: 20px;
+  }
+  table {width: 100%;}
   .icon {max-width: 40px;}
   
   
